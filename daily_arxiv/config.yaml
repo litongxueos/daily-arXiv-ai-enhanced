@@ -1,0 +1,6 @@
+arxiv:
+  categories:  # 文章类型
+    - cs.SD
+
+llm:
+  model_name: 'gemini-3-flash'  # 使用的LLM模型
