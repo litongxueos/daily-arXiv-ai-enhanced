@@ -2,7 +2,7 @@ name: arXiv-daily-ai-enhanced
 
 on:
   schedule:
-    - cron: "30 16 * * *"
+    - cron: "0 19 * * *"
   workflow_dispatch:
 
 # 防止并发冲突：同组 workflow 排队执行
